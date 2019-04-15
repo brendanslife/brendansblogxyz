@@ -3,12 +3,11 @@ title: Emerald | A simple Jekyll blog
 description: "A minimal blog template, build with Jekyll."
 url: "http://www.jacoporabolini.com/emerald"
 author:
-  name: "Jacopo Rabolini"
-  email: "hello@jacoporabolini.com"
-  url: "http://www.jacoporabolini.com"
-
+  name: "Brendan Beverley"
+  email: "96307@shipley.ac.uk"
+  url: "https://brendanslife.github.io/brendansblogxyz/"
 # Build settings
-baseurl: /emerald # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
